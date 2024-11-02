@@ -3,7 +3,7 @@ import streamlit as st
 st.title("Conversor")
 st.write("Escoge entre distintas categorías")
 
-# Diccionario de categorías y unidades de conversión
+# Diccionario de categorías y unidades de conversión (Faltan por agregar)
 categorias = {
     "Medida fisica": {
         "temperatura": ["Celsius", "Fahrenheit", "Kelvin"],
